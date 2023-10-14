@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Web-Devs-kyu</h1>
+<h1 align="center">Hi 👋, We are Web-Devs-kyu</h1>
 <h3 align="center">A passionate full-stack developer community from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=web-devs-kyu&label=Profile%20views&color=0e75b6&style=flat" alt="web-devs-kyu" /> </p>
@@ -34,8 +34,3 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Web-Devs-kyu"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Web-Devs-kyu" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=web-devs-kyu&show_icons=true&locale=en&layout=compact" alt="web-devs-kyu" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=web-devs-kyu&show_icons=true&locale=en" alt="web-devs-kyu" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=web-devs-kyu&" alt="web-devs-kyu" /></p>
