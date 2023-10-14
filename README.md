@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, We Are Web-Devs-kyu</h1>
+<h1 align="center">Hi 👋, I'm Web-Devs-kyu</h1>
 <h3 align="center">A passionate full-stack developer community from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=web-devs-kyu&label=Profile%20views&color=0e75b6&style=flat" alt="web-devs-kyu" /> </p>
@@ -7,19 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Front-end Development**
+- 🔭 We are currently working on **Front-end Development**
 
-- 🌱 I’m currently learning **React, Material UI, NodeJs, Express,Azure MSSQL**
+- 🌱 We are currently learning **React, Material UI, NodeJs, Express,Azure MSSQL**
 
-- 👯 I’m looking to collaborate on **Back-end Development**
+- 👯We are looking to collaborate on **Back-end Development**
 
-- 🤝 I’m looking for help with **Back-end Integrations,eg, payment integration**
+- 🤝 We are looking for help with **Back-end Integrations,eg, payment integration**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Web-Devs-kyu](https://github.com/Web-Devs-kyu)
+- 👨‍💻 All of our projects are available at [https://github.com/Web-Devs-kyu](https://github.com/Web-Devs-kyu)
 
-- 💬 Ask me about **Html5, CSS3, Javascript**
+- 💬 Ask us about **Html5, CSS3, Javascript**
 
-- 📫 How to reach me **johnchege2445@gmail.com**
+- 📫 How to reach us **johnchege2445@gmail.com**
 
 - ⚡ Fun fact **The first computer bug was an actual bug, a moth to be exact.**
 
