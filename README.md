@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Web-Devs-kyu</h1>
+<h1 align="center">Hi 👋, We Are Web-Devs-kyu</h1>
 <h3 align="center">A passionate full-stack developer community from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=web-devs-kyu&label=Profile%20views&color=0e75b6&style=flat" alt="web-devs-kyu" /> </p>
